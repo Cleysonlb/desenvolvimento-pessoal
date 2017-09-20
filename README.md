@@ -1,9 +1,9 @@
-# softskils
+# :zap: softskills :zap:
 
 > Soft skills são uma combinação, habilidades sociais, habilidades de comunicação, traços de caráter, atitudes, atributos carreira, inteligência social e inteligência emocional, entre outros que permitem às pessoas para conviver de forma eficaz no seu ambiente, trabalhar bem com os outros, ter um bom desempenho, e alcançar seus objetivos com habilidades duradouras complementares.
 
 <p align="center">
-  <img src="https://github.com/Cleysonlb/softskils/blob/master/logo.jpg"/>
+  <img src="https://github.com/Cleysonlb/softskills/blob/master/logo.png"/>
 </p>
 
 ## Tópicos
