@@ -18,7 +18,7 @@
 - [6 Maneiras que encontrei para me manter motivado como programador](https://medium.com/trainingcenter/6-maneiras-que-encontrei-para-me-manter-motivado-como-programador-8faf2caabfd0)
 
 ## Comunicação
-
+- [A comunicação e sua importância](https://medium.com/hipnose-pratica/a-comunica%C3%A7%C3%A3o-e-sua-import%C3%A2ncia-43f21ab97931)
 
 ## Disciplina
 
